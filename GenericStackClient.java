@@ -1,3 +1,5 @@
+package stackLinkedList;
+
 public class GenericStackClient {
     private static void stackOfStrings() {
         MyGenericStack<String> stack = new MyGenericStack<>();
